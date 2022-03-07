@@ -7,5 +7,14 @@ Coming across a seemingly good business idea while vacationing on Oahu, Hawaii: 
 In order to compare this weather concerns June and December's temperatures were compared for their opposite qualities such as summer/winter to determine if there is an extreme change or nothing to worry about.
 
 ## Resources
+- Data: 
+  - hawaii.sqlite
+ 
+- Software:
+  - SQLite
+  - Python 3.9.7
+  - Flask
+  - Jupyter Notebook   
+
 ## Results
 ## Summary
