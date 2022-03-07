@@ -20,10 +20,16 @@ In order to compare this weather concerns June and December's temperatures were 
 After getting the statistics for each month the results look like this:
 
 <img width="493" alt="Screen Shot 2022-03-06 at 8 35 41 PM" src="https://user-images.githubusercontent.com/83614893/156958485-966e8ee0-2b09-499f-9169-526de0a90f9f.png">
-##### Figure 1. Statistics for temperatures of June and December.
+Figure 1. Statistics for temperatures in June and December.
 
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+<img width="427" alt="Screen Shot 2022-03-06 at 9 00 22 PM" src="https://user-images.githubusercontent.com/83614893/156960597-5de92e07-879c-4377-b99f-14ad36ecd678.png">
+Figure 1. Statistics for precipitation in June and December.
 
+- The average temperature for both months are in the 70-75 °F range, concluding that there is a minimal difference between June (74.94 °F) and December's  (71.04 °F) temperatures.
+
+- The difference between min and max temperatures for June is 21 °F and for December 27 °F. This means that the value of temp fluctuates more in December but comparing it with June the only difference are 6 °F so it can be ignored and concluded that the fluctuations are almost the same.
+
+- As opposed to the temperature values, average precipitation values are higher in December (0.21 in) instead of June (0.13 in) as seen in Fig. 1 with a difference of 8 in.
 
 ## Summary
  Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
