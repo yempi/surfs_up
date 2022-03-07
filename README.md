@@ -35,4 +35,4 @@ Figure 2. Statistics for precipitation in June and December.
 ## Summary
 Coming back to the purpose of this analysis, the data shows that there is not much difference between peak points of summer and winter that, as we know, are polar opposites in most of the world in weather concerns. The main concern being rain is thrown out of the window with this results as it can be seen that rainfall is low throughout the year and, additionally, the temperature remains in a 5 °F interval so a conclusion that it is steady can be done.
 
-To add on this findings, and to have a complete picture of Hawaii's weather, an all-year-round analysis of temperature and precipitation can be done, as well as fluctuation of tourists of the zone that the shop will be set in.
+To add on this findings, and to have a complete picture of Hawaii's weather, an all-year-round analysis of temperature and precipitation can be done, as well as an analysis of the fluctuation of tourists of the zone that the shop will be set in.
